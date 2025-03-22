@@ -1,4 +1,4 @@
 [submodule "libs/hbb_common"]
 	path = libs/hbb_common
-	url = git@github.com:mangobubu/hbb_common.git
+	url = https://github.com/mangobubu/hbb_common.git
 	branch = master
